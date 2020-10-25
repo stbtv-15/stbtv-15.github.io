@@ -1,0 +1,97 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Signal", Signal EP.1 
+https://obs.line-scdn.net/0hEgXY5QyjGkhlIDdMsLxlH192GSdWTAlLARZLVjOR3wbF19LUBQFLER0RnsbR10WCxJVKEcgAXlBGApJDhUG/720p.m3u8
+
+#EXTINF:-1 group-title="Signal", Signal EP.2
+https://obs.line-scdn.net/0hpTOcO4qaL3tyGgJ4WMZQLEhMLBRBdjx4Fix-ZSJ0ck8MLW0uSHVjH1MYeB9fKmglG39jGFIYNEpWemkoGnoz/720p.m3u8
+
+#EXTINF:-1, group-title="Signal", Signal EP.3
+https://obs.line-scdn.net/0hUmf61b3dCkJbTydBDfd1FWEZCS1oIxlBP3lbXAshV3YleEgQNH1NJnpLA3Ulfk0cMihDJHdGEXN_L0wdZHwS/720p.m3u8
+
+#EXTINF:-1, group-title="Signal", Signal EP.4
+https://obs.line-scdn.net/0hAZI8oXgvHnV0QTN4DgVhIk4XHRpHLQ12EHdPayQvQ0EKdgklTidQEwMUQUIOJVkrGi9UFVRDBURQIV4rHCZT/720p.m3u8
+
+#EXTINF:-1 group-title="Signal", Signal EP.5
+https://obs.line-scdn.net/0hQ9dSbNc8DhZZKiMbjRpxQWN8DXlqRh0VPRxfCAlEUyInHRkVbUtGcC4qAnVwSElINx5GeH8uFSd9Sk9BZEhH/720p.m3u8
+
+#EXTINF:-1 group-title="Signal", Signal EP.6
+https://obs.line-scdn.net/0hZyU3TfgcBVZoSihcZut6AVIcBjlbJhZVDHxUSDgkWGIWfRcBVntOMklJD2REKkIIBn9MMEtKHmdMKkoDBHhN/720p.m3u8
+
+#EXTINF:-1 group-title="Signal", Signal EP.7
+https://obs.line-scdn.net/0hYoxzvYZqBkBFAytKLJB5F39VBS92bxVDITVXXhVtW3Q7NBQRfDdKJGQGDXduZ0EeLGRKJ2YFHXFhY0kfKjZM/720p.m3u8
+
+#EXTINF:-1 group-title="Signal", Signal EP.8
+https://obs.line-scdn.net/0hZ5Nc1_AaBRpzGigQ8116TUlMBnVAdhYZFyxUBCN0WC4NLRdFGn0efARPXitdI0JEGnxOeFETHitXekofSn1L/720p.m3u8
+
+#EXTINF:-1 group-title="Signal", Signal EP.9
+https://obs.line-scdn.net/0hGa3BFFTwGE4OOzVYEHpnGTRtGyE9VwtNag1JUF5VRXpwDV8YMF1TKi9sQn0iCV8QYAheKSg-A38qWwoaYlxQ/720p.m3u8
+
+#EXTINF:-1 group-title="Signal", Signal EP.10
+https://obs.line-scdn.net/0hPNrbPhY_D2FPGyJ3IV1wNnVNDA58dxxiKy1efx91UlUxLUgwcX1BBzhJAQVmKEg_Jn5CBmkYFFBrex0-I3xA/720p.m3u8
+
+#EXTINF:-1 group-title="Signal", Signal EP.11
+https://obs.line-scdn.net/0hkQ1GGmLxNH4MPhlrboJLKTZoNxE_Uid9aAhlYFxQaUpyCHAvZwwrGHs-b0ghD3MgYgp-GSw8L08oXicgNw0o/720p.m3u8
+
+#EXTINF:-1 group-title="Signal", Signal EP.12
+https://obs.line-scdn.net/0hA301NFisHhwNSDMIp1lhSzceHXM-JA0faX5PAl0mQyhzflsaNytUeCxLFSggf1lCY31SeyFLBS0pKA4YZSxW/720p.m3u8
+
+#EXTINF:-1 group-title="Signal", Signal EP.13
+https://obs.line-scdn.net/0hvKANiWbuKWR8NwRwmf9WM0ZhKgtPWzpnGAF4eixZdFACAWxmSVkyAF0yc11XD246EgViBl8wMlVYVG8zF1gx/720p.m3u8
+
+#EXTINF:-1 group-title="Signal", Signal EP.14
+https://obs.line-scdn.net/0hBZ3SV_qZHXUOKjBm-cxiIjR8Hho9Rg52ahxMa15EQEFwHF90Yh9TES94F0YkTlorZ01VESgjBkQqSVogMhxS/720p.m3u8
+
+#EXTINF:-1 group-title="Signal", Signal EP.15
+https://obs.line-scdn.net/0hzl_JCGtVJUNiMwhTQyhaFFhlJixRXzZABgV0XTJdeHccBWQWDFA6J0MwKXdPB2IdC1ViJkYzPnJGUGARXFc4/720p.m3u8
+
+#EXTINF:-1 group-title="Signal", Signal EP.16
+https://obs.line-scdn.net/0hG1ypm8QDGB5ECTUDIW9nSX5fG3F3ZQsdID9JABRnRSo6Pw9PcW1WeDNdQX5tMF9AKj1ff2YIAy9galhBL2xX/720p.m3u8
+
+#EXTINF:-1 group-title="Lies of Lies", Lies of Lies EP.1
+https://stormlands.kananterus.com/videos/1/5fa5dab113e1713cc931d216f34cc67343f871c1fce3fa44bb8f40c23c6947f3f2e2f916d3d4f10ac038045ddfe06757c261c40b01655638ee20dee31e5dc5bd4fcfdfd0fc56f5ee5fc3c8729ffd23f5a8e97791d3d98d73b82fd77f888b65f6ece7443c6ee428fc494793e1b791e76a/05a61c01a85ee926b7a9dda9521f1c39/playlist.m3u8?subvtt=https://subtitle.bioskopkeren.pro/subtitles/liesoflies/1.srt&rstp=1.m3u8
+
+#EXTINF:-1 group-title="Lies of Lies", Lies of Lies EP.2
+https://stormlands.kananterus.com/videos/1/5fa5dab113e1713cc931d216f34cc67343f871c1fce3fa44bb8f40c23c6947f3f2e2f916d3d4f10ac038045ddfe06757c261c40b01655638ee20dee31e5dc5bd4fcfdfd0fc56f5ee5fc3c8729ffd23f5a8e97791d3d98d73b82fd77f888b65f6ece7443c6ee428fc494793e1b791e76a/77257bd3cc664b07af3bfea7f29d3ec2/playlist.m3u8?subvtt=https://subtitle.bioskopkeren.pro/subtitles/liesoflies/2indo.srt&rstp=1.m3u8
+
+#EXTINF:-1 group-title="Lies of Lies", Lies of Lies EP.3
+https://honeypot.kananterus.com/videos/1/5fa5dab113e1713cc931d216f34cc67343f871c1fce3fa44bb8f40c23c6947f39e3a544cde347f1bc6fd8a2f5f90e53235a389e949393c932869a40d8d9b6bbefa6231989d462ba96b06f5928810d802e126faaac062724500fd7749a89e99a619062f87f8829337200167114b457b55/74b9ee29baa75d5995c251455262348e/playlist.m3u8?subvtt=https://subtitle.bioskopkeren.pro/subtitles/liesoflies/3.srt&rstp=1.m3u8
+
+#EXTINF:-1 group-title="Lies of Lies", Lies of Lies EP.4
+https://honeypot.kananterus.com/videos/1/5fa5dab113e1713cc931d216f34cc67343f871c1fce3fa44bb8f40c23c6947f31b70504b66dd24d371c86ad5941aad23d930455bfff9c001b96ab828a2dddda62c415b944815448a76bd79e26b89b4ab6fb70bced96859da7a2108bd31c441f9f7f6ab4c6ffba1a47a49832be710386f/b007587ddf97b89958dde68a949139d5/playlist.m3u8?subvtt=https://subtitle.bioskopkeren.pro/subtitles/liesoflies/4.srt&rstp=1.m3u8
+
+#EXTINF:-1 group-title="Lies of Lies", Lies of Lies EP.5
+https://honeypot.kananterus.com/videos/1/5fa5dab113e1713cc931d216f34cc67343f871c1fce3fa44bb8f40c23c6947f3bafff24256d3c8f747ab628d87e337cc55329d9b98f89082abc1b1eae1fe5c90793227500f41e97eb8e3c056564f4b973fb060ded9065c15da8f9667896778e82782ed8d569775bf323ddf6b6dae10b0/a5e45dfe176e11a1700097f362eae954/playlist.m3u8?subvtt=https://subtitle.bioskopkeren.pro/subtitles/liesoflies/5.srt&rstp=1.m3u8
+
+#EXTINF:-1 group-title="Lies of Lies", Lies of Lies EP.6
+https://dorne.kananterus.com/videos/1/5fa5dab113e1713cc931d216f34cc67343f871c1fce3fa44bb8f40c23c6947f3cdb60ef5a2b8fc1f0e6c40c353e461432c620a3994369f0aba38f2107f38417fa27bd9eb4751042aed9f57ea3340f3fba3dee7696c575bd7547a4b24eaf08cac4d56ef0edac60cd603387429a1a1dec2/889046ccd3736ea277a9bfe7d388009d/playlist.m3u8?subvtt=https://subtitle.bioskopkeren.pro/subtitles/liesoflies/6.srt&rstp=1.m3u8
+
+#EXTINF:-1 group-title="Lies of Lies", Lies of Lies EP.7
+https://honeypot.kananterus.com/videos/1/5fa5dab113e1713cc931d216f34cc67343f871c1fce3fa44bb8f40c23c6947f303b781ccd2583865ad88d84e4e2f25d96b898e28734eec64ce1175a7f53fbc1835e44670e286c4e9a1b7e6993805b2c760d7841c2b26b10dea85ccbb94dd0491a0c30281fe29e36776d0ab257246d983/6b1a9eaa1afbbb923808548175185d3a/playlist.m3u8?subvtt=https://subtitle.bioskopkeren.pro/subtitles/liesoflies/7.srt&rstp=1.m3u8
+
+#EXTINF:-1 group-title="Lies of Lies", Lies of Lies EP.8
+https://dorne.kananterus.com/videos/1/5fa5dab113e1713cc931d216f34cc67343f871c1fce3fa44bb8f40c23c6947f307942e80c0a493f02e672ef8f03a3f661cb95558e27d36a53e230a6cb8398b1f6b3d82f4ee3a071d2c29059791ab2dac6ddd0e6cdc8cd700ca7156ce8f17250f27326d2ac4e130b737d185bb475d866f/4f13ae1512521b24787c5a4b10f3e172/playlist.m3u8?subvtt=https://subtitle.bioskopkeren.pro/subtitles/liesoflies/8.srt&rstp=1.m3u8
+
+#EXTINF:-1 group-title="Lies of Lies", Lies of Lies EP.9
+https://stormlands.kananterus.com/videos/1/5fa5dab113e1713cc931d216f34cc67343f871c1fce3fa44bb8f40c23c6947f3090e15677e5d2576118d601d9827a1f81b67c4b0e83fce676e90b4c3799b794768cdfcfae2c38c096b33bfd16eba8f5830e085a6cb7981a0c88c3fd33a2adf31fef59c611001acc58b77fc4a5730a351/b0477237249f0996f12ff5cfc3d11031/playlist.m3u8?subvtt=https://subtitle.bioskopkeren.pro/subtitles/liesoflies/9.srt&rstp=1.m3u8
+
+#EXTINF:-1 group-title="Lies of Lies", Lies of Lies EP.10
+https://honeypot.kananterus.com/videos/1/5fa5dab113e1713cc931d216f34cc67343f871c1fce3fa44bb8f40c23c6947f331fc45ec304bf64693d959a052b7ba1590a9b81520d1dbff82943c9b163214812b84db93c0a499a60da6207b5a29204742e77a333101915adb48d87495775c3d770c8a44d5bdeceff31727b9399caeec/a2cd3a39f7fad7393ed7f2f64d8e1701/playlist.m3u8?subvtt=https://subtitle.bioskopkeren.pro/subtitles/liesoflies/10.srt&rstp=1.m3u8
+
+#EXTINF:-1 group-title="Lies of Lies", Lies of Lies EP.11
+https://dorne.kananterus.com/videos/1/5fa5dab113e1713cc931d216f34cc67343f871c1fce3fa44bb8f40c23c6947f38830e9cdea65c78169f8df3f38280869db322d0ee14100b51b6b340091886fb957c2fc281f8f8212e468ead6146d5f6b32116e7bb25b771d2dc485867eb1e16345b17e132b77bfe8ee6799c8f645ab04/252e47573bb6035adaff6f73537a060f/playlist.m3u8?subvtt=https://subtitle.bioskopkeren.pro/subtitles/liesoflies/11.srt&rstp=1.m3u8
+
+#EXTINF:-1 group-title="Lies of Lies", Lies of Lies EP.12
+https://honeypot.kananterus.com/videos/1/5fa5dab113e1713cc931d216f34cc67343f871c1fce3fa44bb8f40c23c6947f3400c96b462c500e3d7d6b59f4a9b96ecd6f356110f8ed0ab9e0128138fd022b2b479e42d29c6b78aa1d0a57b1b207dce3ac007e2d98f2d68e5bc34a24c8bfb1360e04d4e976b56d5899ce9702620f2bd/e9f8fd579a445093a074ee65c60937e5/playlist.m3u8?subvtt=https://subtitle.bioskopkeren.pro/subtitles/liesoflies/12.srt&rstp=1.m3u8
+
+#EXTINF:-1 group-title="Lies of Lies", Lies of Lies EP.13
+https://honeypot.kananterus.com/videos/1/5fa5dab113e1713cc931d216f34cc67343f871c1fce3fa44bb8f40c23c6947f34381b71217c633f11f99ac38bfd0b6bdcadcaf384960c34db97326de817345927acc3950886c47da063a6d6c76c0a7deababb78acd8e803ae8461571088621f262bd0ca5167faac48c1fe7e1bbae51a5/7d2fe0b7d323804b43adeb4447a43e64/playlist.m3u8?subvtt=https://subtitle.bioskopkeren.pro/subtitles/liesoflies/13.srt&rstp=1.m3u8
+
+#EXTINF:-1 group-title="Lies of Lies", Lies of Lies EP.14
+https://dorne.kananterus.com/videos/1/5fa5dab113e1713cc931d216f34cc67343f871c1fce3fa44bb8f40c23c6947f3e692efc4adc2a080f62d198bc52b08488c8766a98372ea35bc6f901fe397296629be606c2385b6437a3a59938ced81a1232b3882fa0bb546a4dbf3bdf6b6cc92b949e3ba6469a8bbfb9f249535afa98c/6e3a2f94b15694cf870154880fc783db/playlist.m3u8?subvtt=https://subtitle.bioskopkeren.pro/subtitles/liesoflies/14.srt&rstp=1.m3u8
+
+#EXTINF:-1 group-title="Lies of Lies", Lies of Lies EP.15
+https://honeypot.kananterus.com/videos/1/5fa5dab113e1713cc931d216f34cc67343f871c1fce3fa44bb8f40c23c6947f33cfc1abccf6f5183f9ca252a90ded425349d9cc63d436c444162bfa0ff9a468d6327d7170837dacd8008a17e6c5d776cf6fabb72860368b64730ab95527ce6b6d40c98f1054d0875de0335f7210492f0/1fdc9bc964624849f6bb3d87bf76867b/playlist.m3u8?subvtt=https://subtitle.bioskopkeren.pro/subtitles/liesoflies/15.srt&rstp=1.m3u8
+
+#EXTINF:-1 group-title="Lies of Lies", Lies of Lies EP.16
+https://honeypot.kananterus.com/videos/1/5fa5dab113e1713cc931d216f34cc67343f871c1fce3fa44bb8f40c23c6947f397409f0560685b3b0f544d4b9b197fa4db0cbb8daa98fd8640c837d646158420636602d47a7cd8feed80ca9c0143f72f0697cfc5aa7bf08001bd8854b677f9a890b97e9a3b694a5f480944c4e57f1f0a/56f6b4e48960f534c63553e36c34a8e7/playlist.m3u8?subvtt=https://subtitle.bioskopkeren.pro/subtitles/liesoflies/16.srt&rstp=1.m3u8
